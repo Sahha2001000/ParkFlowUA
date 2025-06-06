@@ -1,0 +1,3 @@
+2025-06-01 22:33:40.681 | INFO     | __main__:create_kafka_topic:11 - Починаємо створення топіка 'parking_events'
+2025-06-01 23:00:17.679 | INFO     | __main__:create_kafka_topic:11 - Починаємо створення топіка 'parking_events'
+2025-06-01 23:00:18.018 | INFO     | __main__:create_kafka_topic:25 - Топік 'parking_events' успішно створено
