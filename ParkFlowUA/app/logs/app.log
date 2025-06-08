@@ -1,0 +1,8 @@
+2025-06-01 21:36:17.101 | INFO     | app.utils:<module>:10 - Утиліти ініціалізовано: logger, generate_token, decode_token
+2025-06-01 21:36:17.122 | INFO     | app.models:<module>:14 - Ініціалізовано моделі: User, Reservation, Payment, Spot
+2025-06-01 21:36:17.266 | INFO     | app.schemas:<module>:7 - Ініціалізовано Marshmallow-схеми
+2025-06-01 21:36:17.269 | INFO     | app.services:<module>:4 - Пакет 'services' завантажено
+2025-06-01 21:37:57.928 | INFO     | app.utils:<module>:10 - Утиліти ініціалізовано: logger, generate_token, decode_token
+2025-06-01 21:37:57.942 | INFO     | app.models:<module>:14 - Ініціалізовано моделі: User, Reservation, Payment, Spot
+2025-06-01 21:37:58.063 | INFO     | app.schemas:<module>:7 - Ініціалізовано Marshmallow-схеми
+2025-06-01 21:37:58.066 | INFO     | app.services:<module>:4 - Пакет 'services' завантажено
